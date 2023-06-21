@@ -1,0 +1,7 @@
+name: travel-plans
+version: 0.1.0
+
+dependencies:
+  amber:
+    github: amberframework/amber
+    version: ~> 0.42.0
